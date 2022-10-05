@@ -1,2 +1,2 @@
 Data file format:
-ln(1+x1), ln(1+x2), ln(y), v, exp(-u)
+ln(1+x1), ln(1+x2), y, v, exp(-u)
